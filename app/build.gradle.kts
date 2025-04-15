@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.tuskybearsprintweek1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.tuskybearsprintweek1"
